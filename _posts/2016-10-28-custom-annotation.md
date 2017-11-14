@@ -1,14 +1,18 @@
 ---
 layout:     post
-title:      ANDROID 自定义注解
+title:      "ANDROID 自定义注解"
 date: 2016-10-28 10:20:10 +0800
 categories: Android
 tags: Android annotion 注入 
 author: yang1006
-mathjax:true
 ---
 * content
 {:toc}
+本篇文章主要就是讲解通过注解实现findViewById方法的功能。
+
+
+
+
 
   在开发中我们经常会使用到findViewById方法初始化一个控件，如果一个布局里控件太多就会非常浪费时间，不能专注于核心逻辑的实现。本篇文章主要就是讲解通过注解实现findViewById方法的功能。
   
