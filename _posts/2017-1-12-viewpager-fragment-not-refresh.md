@@ -1,17 +1,14 @@
 ---
 layout:     post
 title:      "ViewPager中动态更换Fragment,调用notifyDataSetChanged()方法Fragment不更新的问题及解决方案"
-cdate: 2017-03-16 10:41:10 +0800
+date: 2017-03-16 10:41:10 +0800
 categories: Android
 tags: Android adapter ViewPager
 author: yang1006
-mathjax:true
 ---
 * content
 {:toc}
 ViewPager中动态更换Fragment,调用notifyDataSetChanged()方法Fragment不更新的问题及解决方案。
-
-
 
 
 
